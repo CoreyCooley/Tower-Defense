@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="30" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="Ground Tileset" tilewidth="16" tileheight="16" tilecount="4096" columns="64">
+  <image source="../Ground/Ground Tileset.png" width="1024" height="1024"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztlk1OwzAQhac+CQks+TkSJLCk5UiQtktKjwQJLPm5As+qQ6bDTG0jlW6y+DRj62meElvJW02InsDKqPviA3wq1XPm9ofl+wVmRHSEWgRKVmVfMl2KdpfvJbgCVaBmVfY106Vod/k+gxfQBjrQgHmA9/06VZvr21fZd0yXos3xLXDepcdtKNzQH2P/hLZ9LW0ZuVfSt8Kc2uM2VG7or7F/I3wtbR3xvQcP7GwWYAluwRTMAneJ2inT/8X3cbL9DVhnaGPfjdF39B19R1/L18o3ObP+63nfxYycd9Pjs865+10vnD3rlOWkmNbyLQx8BlrgP7akYVaDfk5p2phvZeAz0CvmvLFZLfqO0rQx38ZA5ia51rS8j/m2BjI3WTnKylDR83U6PAtpa00rddrd/zlfp8OzkLbWtFK3Jt3TI7NPbpV7vLc8D8k3eTE0Vg==
+  </data>
+ </layer>
+</map>
